@@ -2,9 +2,6 @@
 
 internal class BankAccount
 {
-    
-    
-    
     static private int s_accountNuberSeed = 1000000000;
     public string Number { get; }
     public string Owner { get; private set; }
@@ -20,6 +17,21 @@ internal class BankAccount
 
             return balance;
         } 
+    }
+    public string GetAccountHistory()
+    {
+        StringBuilder report = new StringBuilder();
+        decimal balance = 0;
+        report.AppendLine("Data\t\tAmount\tBalance\tNote");
+        foreach (var item in _allTransactions)
+        {
+            balance += item.Amount;
+            report.AppendLine($"" + $"{item.Date.ToShortDateString()}\t" +
+                              $"{item.Amount}\t{balance}\t{item.Nate}");
+            
+        }
+
+        return report.ToString();
     }
 
     private List<Transaction> _allTransactions = new List<Transaction>();
