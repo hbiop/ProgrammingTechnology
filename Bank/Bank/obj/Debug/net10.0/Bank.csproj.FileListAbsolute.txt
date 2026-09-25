@@ -1,0 +1,14 @@
+D:\PROG\Kryukova\210а\Bank\Bank\bin\Debug\net10.0\Bank.exe
+D:\PROG\Kryukova\210а\Bank\Bank\bin\Debug\net10.0\Bank.deps.json
+D:\PROG\Kryukova\210а\Bank\Bank\bin\Debug\net10.0\Bank.runtimeconfig.json
+D:\PROG\Kryukova\210а\Bank\Bank\bin\Debug\net10.0\Bank.dll
+D:\PROG\Kryukova\210а\Bank\Bank\bin\Debug\net10.0\Bank.pdb
+D:\PROG\Kryukova\210а\Bank\Bank\obj\Debug\net10.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG\Kryukova\210а\Bank\Bank\obj\Debug\net10.0\Bank.AssemblyInfoInputs.cache
+D:\PROG\Kryukova\210а\Bank\Bank\obj\Debug\net10.0\Bank.AssemblyInfo.cs
+D:\PROG\Kryukova\210а\Bank\Bank\obj\Debug\net10.0\Bank.csproj.CoreCompileInputs.cache
+D:\PROG\Kryukova\210а\Bank\Bank\obj\Debug\net10.0\Bank.dll
+D:\PROG\Kryukova\210а\Bank\Bank\obj\Debug\net10.0\refint\Bank.dll
+D:\PROG\Kryukova\210а\Bank\Bank\obj\Debug\net10.0\Bank.pdb
+D:\PROG\Kryukova\210а\Bank\Bank\obj\Debug\net10.0\Bank.genruntimeconfig.cache
+D:\PROG\Kryukova\210а\Bank\Bank\obj\Debug\net10.0\ref\Bank.dll
