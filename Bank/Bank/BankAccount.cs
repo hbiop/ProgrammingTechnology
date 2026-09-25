@@ -1,7 +1,8 @@
 ﻿namespace Bank;
 
 internal class BankAccount
-{ 
+{
+    
     static private int s_accountNuberSeed = 1000000000;
     public string Number { get; }
     public string Owner { get; private set; }
